@@ -1,3 +1,3 @@
-# html_Projects
+# Currículo WEB!!!
 
-## Here are my main projects in HTML!
+## Esse é o me currículo feito com HTML e CSS!
